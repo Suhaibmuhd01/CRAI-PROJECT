@@ -4,6 +4,9 @@ This is a food ordering system developed to obtain CRAI in partnership with GDG 
 ```
 Git clone https://Github.Com/suhaibmuhd/CRAI_
 -PROJECT.git
-# Author 
+
 ```
+# LICENSE
+MIT License
+# Author 
 ** SUHAIB MUHAMMAD BABANGIDA **
